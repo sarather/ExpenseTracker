@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: sarat
+Build-Jdk: 17.0.2
+Implementation-Title: ExpenseManager
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.ritik
+Implementation-URL: https://spring.io/projects/spring-boot/ExpenseManage
+ r
+Created-By: Maven Integration for Eclipse
+
